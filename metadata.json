@@ -1,0 +1,5 @@
+{
+  "name": "ALX Polly",
+  "description": "An enhanced polling application with clear, intentional documentation. Users can create polls, vote on them, and see results in real-time. This project serves as a showcase for best practices in code documentation, including docstrings and inline comments.",
+  "requestFramePermissions": []
+}
